@@ -1,3 +1,7 @@
+# How to install:
+
+Just run `pip install worklogi`.
+
 # How to use:
 
 You can combine this with [m](https://github.com/jmlopez-rod/m) and git hooks to 
